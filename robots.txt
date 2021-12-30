@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://benkostiuk.com/sitemap.xml
+Host: https://benkostiuk.com
