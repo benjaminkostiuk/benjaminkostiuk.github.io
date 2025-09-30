@@ -133,9 +133,9 @@ const Hero = () => {
         <a href="https://www.rbcroyalbank.com/personal.html/" target="_blank" rel="noreferrer">
           RBC
         </a>{' '}
-        writing code for the beautiful marriage of money and the internet. I develop full-stack
-        data-intensive applications and data pipelines running on real-time highly available
-        infrastructure to support RBC's marketing arm.
+        writing code for RBC’s Next Best Action marketing team. I develop full-stack data-intensive
+        applications and data pipelines running on real-time highly available infrastructure to
+        support RBC's marketing arm.
         <br />
         I've previously interned at{' '}
         <a href="https://www.affirm.com/" target="_blank" rel="noreferrer">
