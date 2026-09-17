@@ -129,23 +129,23 @@ const Hero = () => {
   const description = (
     <>
       <p>
-        I’m a senior full stack developer at{' '}
-        <a href="https://www.rbcroyalbank.com/personal.html/" target="_blank" rel="noreferrer">
+        I’m a senior software engineer at{' '}
+        <a href="https://www.datarobot.com/" target="_blank" rel="noreferrer">
+          DataRobot
+        </a>{' '}
+        with the Data & Connectors team, writing code for the data infrastructure, APIs, and tooling
+        required for AI features like RAG pipelines, MCP servers, and AI-native applications.
+        <br />
+        I've previously worked at{' '}
+        <a href="https://www.rbcroyalbank.com/" target="_blank" rel="noreferrer">
           RBC
         </a>{' '}
-        writing code for RBC’s Next Best Action marketing team. I develop full-stack data-intensive
-        applications and data pipelines running on real-time highly available infrastructure to
-        support RBC's marketing arm.
-        <br />
-        I've previously interned at{' '}
+        supporting their marketing arm delivering millions of personalized offers to canadians, and
+        at{' '}
         <a href="https://www.affirm.com/" target="_blank" rel="noreferrer">
           Affirm
         </a>{' '}
-        supporting the investor experience team responsible for investor reporting, and at{' '}
-        <a href="https://www.coveo.com/en" target="_blank" rel="noreferrer">
-          Coveo
-        </a>{' '}
-        supporting the plugins team, automating testing for their Slack plugin.
+        supporting the investor experience team responsible for investor reporting.
       </p>
     </>
   );

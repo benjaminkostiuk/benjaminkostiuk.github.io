@@ -132,21 +132,19 @@ const About = () => {
           <div>
             <p>Hi there!</p>
             <p>
-              I'm Benjamin Kostiuk, a software developer who enjoys writing code for money on the
-              internet. My background is in building full stack applications, data pipelines,
-              real-time highly available infrastructure, and data intensive applications.
+              I'm Benjamin Kostiuk, a jack-of-all-trades developer internet. My background is in
+              building full stack applications, data pipelines, real-time highly available
+              infrastructure, and data intensive applications.
             </p>
             <p>
-              I currently work @ RBC supporting their Next Best Action marketing team. If you've
-              received an offer for an RBC product by email, phone, or push notification, I probably
-              had a hand in building the systems and data pipelines that decided which offer was
-              right for you, when to contact you, and how best to reach you! Some of my personal
-              pursuits include mobile development, DevOps and Web3 dev. I'm always experimenting and
-              trying to build cool projects.
+              I currently work @ DataRobot with their Data & Connectors team, helping connect your
+              data to the DataRobot platform to help you build the best AI-powered applications and
+              agents possible! Some of my personal pursuits include mobile development, DevOps and
+              Web3 dev. I'm always experimenting and trying to build cool projects.
             </p>
 
             <p>
-              I've had the opportunity to intern with{' '}
+              In the past, I've had the opportunity work for{' '}
               <a href="https://www.rbcroyalbank.com/personal.html" target="_blank" rel="noreferrer">
                 banks
               </a>

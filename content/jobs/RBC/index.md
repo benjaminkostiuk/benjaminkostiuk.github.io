@@ -1,14 +1,14 @@
 ---
-date: '2023-07-01'
-title: 'Senior Full Stack Developer'
-company: 'RBC'
-companyFullName: 'Royal Bank of Canada'
-location: 'Toronto, ON'
-range: 'July 2023 - Present'
-url: 'https://www.rbcroyalbank.com/personal.html'
+date: '2025-07-10'
+title: 'Senior Software Engineer'
+company: 'DataRobot'
+companyFullName: 'DataRobot'
+location: 'Remote'
+range: 'October 2025 - Present'
+url: 'https://www.datarobot.com'
 ---
 
-- Develop and maintain critical features for RBC's marketing microservice ecosystem of Java Spring Boot and Python FastAPI applications used to create and track marketing campaigns & offers sent to 16+ million clients daily.
-- Engineer scalable ETL pipelines to securely transfer 100+ terabytes of client data from on-premise storage to AWS S3, using PySpark, Airflow, AWS Glue and custom python tooling.
-- Lead large-scale migration of services between private cloud hosting providers from Pivotal Cloud Foundry to Red Hat OpenShift with 0% downtime and minimal impact on users.
-- Design and implement automation software to handle channel communication sequencing using Airflow, PySpark and PostgresDB, saving 250+ hours/year of manual work.
+- Delivered DataRobot’s foundational Files API and fsspec-compatible Python SDK for storing and working with unstructured data, now underpinning hundreds of customer apps, RAG & MCP services, and platform AI workloads.
+- Led technical design and cross-team delivery of DataRobot’s Bring-Your-Own-Connector platform initiative, authoring tech specification and PRD offering customers a self-service way to integrate custom data sources.
+- Acted as a Forward Deployed Engineer embedded with an oil & gas customer building a production-ready AI solution with DataRobot app templates, FastAPI, and React, saving millions of dollars by optimizing well lease tracking.
+- Modernized platform Flask APIs and Python SDK, authored technical documentation, triaged and remediated security CVEs, provided on-call support, and onboarded new engineers.
